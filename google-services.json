@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "2430725653",
+    "firebase_url": "https://pushnotificationsandroidstudio.firebaseio.com",
+    "project_id": "pushnotificationsandroidstudio",
+    "storage_bucket": "pushnotificationsandroidstudio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2430725653:android:643cb2118caffc03",
+        "android_client_info": {
+          "package_name": "com.example.juanbrusco.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2430725653-v8d9igetruha702of9j1hjs3c5evb0d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIiM9rX99vZY96jcu-1EJIX7qTxv4l-7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2430725653-v8d9igetruha702of9j1hjs3c5evb0d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
