@@ -1,4 +1,4 @@
-# CountdownApp
+# PushNotificationsApp
 Aplicación para enviar notificaciones push.
 
 ----------
